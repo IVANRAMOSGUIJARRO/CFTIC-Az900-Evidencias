@@ -16,3 +16,7 @@
 ![3.ImplementarAzureContainerInstances-1](Evidencias/3.ImplementarAzureContainerInstances-1.jpg)
 
 ![3.ImplementarAzureContainerInstances-2](Evidencias/3.ImplementarAzureContainerInstances-2.jpg)![3.ImplementarAzureContainerInstances-3](Evidencias/3.ImplementarAzureContainerInstances-3.jpg)
+
+# 04 - Crear una red virtual![4.CrearRedVirtual1](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual1.jpg)![4.CrearRedVirtual2](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual2.jpg)![4.CrearRedVirtual3](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual3.jpg)![4.CrearRedVirtual4](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual4.jpg)![4.CrearRedVirtual5](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual5.jpg)![4.CrearRedVirtual6](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual6.jpg)![4.CrearRedVirtual7](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual7.jpg)
+
+![4.CrearRedVirtual8](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual8.jpg)![4.CrearRedVirtual9](C:\local1\CFTIC-Az900-Evidencias\Evidencias\4.CrearRedVirtual9.jpg)

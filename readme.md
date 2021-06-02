@@ -23,6 +23,8 @@
 
 ![4.CrearRedVirtual8](Evidencias/4.CrearRedVirtual8.jpg)![4.CrearRedVirtual9](Evidencias/4.CrearRedVirtual9.jpg)
 
-# 05 - Creación de almacenamiento de blobs![5.CreaciónAlmacenamientoBlobs1](Evidencias/5.CreaciónAlmacenamientoBlobs1.jpg)![5.CreaciónAlmacenamientoBlobs2](Evidencias/5.CreaciónAlmacenamientoBlobs2.jpg)![5.CreaciónAlmacenamientoBlobs3](Evidencias/5.CreaciónAlmacenamientoBlobs3.jpg)![5.CreaciónAlmacenamientoBlobs4](Evidencias/5.CreaciónAlmacenamientoBlobs4.jpg)
+05 - Creación de almacenamiento de blobs![5.CreaciónAlmacenamientoBlobs1](Evidencias/5.CreaciónAlmacenamientoBlobs1.jpg)![5.CreaciónAlmacenamientoBlobs2](Evidencias/5.CreaciónAlmacenamientoBlobs2.jpg)![5.CreaciónAlmacenamientoBlobs3](Evidencias/5.CreaciónAlmacenamientoBlobs3.jpg)![5.CreaciónAlmacenamientoBlobs4](Evidencias/5.CreaciónAlmacenamientoBlobs4.jpg)
 
 ![5.CreaciónAlmacenamientoBlobs5](Evidencias/5.CreaciónAlmacenamientoBlobs5.jpg)
+
+# 06 - Creación de una base de datos SQL![6.CreaciónBBDDSQL1](Evidencias/6.CreaciónBBDDSQL1.jpg)![6.CreaciónBBDDSQL2](Evidencias/6.CreaciónBBDDSQL2.jpg)![6.CreaciónBBDDSQL3](Evidencias/6.CreaciónBBDDSQL3.jpg)![6.CreaciónBBDDSQL4](Evidencias/6.CreaciónBBDDSQL4.jpg)	

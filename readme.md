@@ -9,4 +9,4 @@
 
 # 02 - Crear una aplic. web
 
-![02.CrearAplicacionweb2](Evidencias/02.CrearAplicacionweb2.jpg)![02.CrearAplicacionweb1 (1)](Evidencias/02.CrearAplicacionweb1 (1).jpg)
+![02.CrearAplicacionweb1](Evidencias/02.CrearAplicacionweb1.jpg)![02.CrearAplicacionweb2](Evidencias/02.CrearAplicacionweb2.jpg)

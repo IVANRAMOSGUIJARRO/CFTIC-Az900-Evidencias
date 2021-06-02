@@ -22,3 +22,7 @@
 # ![4.CrearRedVirtual1](Evidencias/4.CrearRedVirtual1.jpg)![4.CrearRedVirtual2](Evidencias/4.CrearRedVirtual2.jpg)![4.CrearRedVirtual3](Evidencias/4.CrearRedVirtual3.jpg)![4.CrearRedVirtual4](Evidencias/4.CrearRedVirtual4.jpg)![4.CrearRedVirtual5](Evidencias/4.CrearRedVirtual5.jpg)![4.CrearRedVirtual6](Evidencias/4.CrearRedVirtual6.jpg)![4.CrearRedVirtual7](Evidencias/4.CrearRedVirtual7.jpg)
 
 ![4.CrearRedVirtual8](Evidencias/4.CrearRedVirtual8.jpg)![4.CrearRedVirtual9](Evidencias/4.CrearRedVirtual9.jpg)
+
+# 05 - Creación de almacenamiento de blobs![5.CreaciónAlmacenamientoBlobs1](Evidencias/5.CreaciónAlmacenamientoBlobs1.jpg)![5.CreaciónAlmacenamientoBlobs2](Evidencias/5.CreaciónAlmacenamientoBlobs2.jpg)![5.CreaciónAlmacenamientoBlobs3](Evidencias/5.CreaciónAlmacenamientoBlobs3.jpg)![5.CreaciónAlmacenamientoBlobs4](Evidencias/5.CreaciónAlmacenamientoBlobs4.jpg)
+
+![5.CreaciónAlmacenamientoBlobs5](Evidencias/5.CreaciónAlmacenamientoBlobs5.jpg)

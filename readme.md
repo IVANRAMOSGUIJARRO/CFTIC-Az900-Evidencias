@@ -27,4 +27,10 @@
 
 ![5.CreaciónAlmacenamientoBlobs5](Evidencias/5.CreaciónAlmacenamientoBlobs5.jpg)
 
-# 06 - Creación de una base de datos SQL![6.CreaciónBBDDSQL1](Evidencias/6.CreaciónBBDDSQL1.jpg)![6.CreaciónBBDDSQL2](Evidencias/6.CreaciónBBDDSQL2.jpg)![6.CreaciónBBDDSQL3](Evidencias/6.CreaciónBBDDSQL3.jpg)![6.CreaciónBBDDSQL4](Evidencias/6.CreaciónBBDDSQL4.jpg)	
+# 06 - Creación de una base de datos SQL![6.CreaciónBBDDSQL1](Evidencias/6.CreaciónBBDDSQL1.jpg)![6.CreaciónBBDDSQL2](Evidencias/6.CreaciónBBDDSQL2.jpg)![6.CreaciónBBDDSQL3](Evidencias/6.CreaciónBBDDSQL3.jpg)![6.CreaciónBBDDSQL4](Evidencias/6.CreaciónBBDDSQL4.jpg)
+
+
+
+
+
+# 07 - Implementar un Azure IoT Hub![7.CentroIOT](Evidencias/7.CentroIOT.jpg)![7.CentroIOT2](Evidencias/7.CentroIOT2.jpg)![7.CentroIOT3](Evidencias/7.CentroIOT3.jpg)![7.CentroIOT4](Evidencias/7.CentroIOT4.jpg)

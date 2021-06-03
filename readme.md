@@ -34,3 +34,5 @@
 
 
 # 07 - Implementar un Azure IoT Hub![7.CentroIOT](Evidencias/7.CentroIOT.jpg)![7.CentroIOT2](Evidencias/7.CentroIOT2.jpg)![7.CentroIOT3](Evidencias/7.CentroIOT3.jpg)![7.CentroIOT4](Evidencias/7.CentroIOT4.jpg)
+
+# 8 - Implementar Azure Functions![8-AplicacionFunctions](Evidencias/8-AplicacionFunctions.jpg)![8-AplicacionFunctions2](Evidencias/8-AplicacionFunctions2.jpg)![8-AplicacionFunctions3](Evidencias/8-AplicacionFunctions3.jpg)![8-AplicacionFunctions4](Evidencias/8-AplicacionFunctions4.jpg)

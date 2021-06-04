@@ -39,3 +39,7 @@
 
 # 09: Crear una máquina virtual con una plantilla![09.MVConPlantilla](Evidencias/09.MVConPlantilla.jpg)![09.MVConPlantilla2](Evidencias/09.MVConPlantilla2.jpg)![09.MVConPlantilla3](Evidencias/09.MVConPlantilla3.jpg)
 
+# 10 - Crear una VM con PowerShell![10.VMPowerShell](Evidencias/10.VMPowerShell.jpg)![10.VMPowerShell2](Evidencias/10.VMPowerShell2.jpg)![10.VMPowerShell3](Evidencias/10.VMPowerShell3.jpg)![10.VMPowerShell4](Evidencias/10.VMPowerShell4.jpg)
+
+# 11 - Crear una VM con la CLI![11.VMwithCLI](Evidencias/11.VMwithCLI.jpg)![11.VMwithCLI2](Evidencias/11.VMwithCLI2.jpg)
+

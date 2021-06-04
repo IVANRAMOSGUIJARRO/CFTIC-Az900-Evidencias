@@ -43,3 +43,6 @@
 
 # 11 - Crear una VM con la CLI![11.VMwithCLI](Evidencias/11.VMwithCLI.jpg)![11.VMwithCLI2](Evidencias/11.VMwithCLI2.jpg)
 
+# 12 - Implementar Azure Key Vault![12.ImplementAzureKeyVault](Evidencias/12.ImplementAzureKeyVault.jpg)![12.ImplementAzureKeyVault2](Evidencias/12.ImplementAzureKeyVault2.jpg)![12.ImplementAzureKeyVault3](Evidencias/12.ImplementAzureKeyVault3.jpg)![12.ImplementAzureKeyVault4](Evidencias/12.ImplementAzureKeyVault4.jpg)
+
+# 13 - Tráfico de red segura![13.TraficoRedSegura](Evidencias/13.TraficoRedSegura.jpg)![13.TraficoRedSegura2](Evidencias/13.TraficoRedSegura2.jpg)![13.TraficoRedSegura3](Evidencias/13.TraficoRedSegura3.jpg)![13.TraficoRedSegura4](Evidencias/13.TraficoRedSegura4.jpg)![13.TraficoRedSegura5](Evidencias/13.TraficoRedSegura5.jpg)![13.TraficoRedSegura6](Evidencias/13.TraficoRedSegura6.jpg)

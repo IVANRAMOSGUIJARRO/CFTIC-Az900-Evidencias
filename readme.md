@@ -23,7 +23,7 @@
 
 ![4.CrearRedVirtual8](Evidencias/4.CrearRedVirtual8.jpg)![4.CrearRedVirtual9](Evidencias/4.CrearRedVirtual9.jpg)
 
-05 - Creación de almacenamiento de blobs![5.CreaciónAlmacenamientoBlobs1](Evidencias/5.CreaciónAlmacenamientoBlobs1.jpg)![5.CreaciónAlmacenamientoBlobs2](Evidencias/5.CreaciónAlmacenamientoBlobs2.jpg)![5.CreaciónAlmacenamientoBlobs3](Evidencias/5.CreaciónAlmacenamientoBlobs3.jpg)![5.CreaciónAlmacenamientoBlobs4](Evidencias/5.CreaciónAlmacenamientoBlobs4.jpg)
+# 05 - Creación de almacenamiento de blobs![5.CreaciónAlmacenamientoBlobs1](Evidencias/5.CreaciónAlmacenamientoBlobs1.jpg)![5.CreaciónAlmacenamientoBlobs2](Evidencias/5.CreaciónAlmacenamientoBlobs2.jpg)![5.CreaciónAlmacenamientoBlobs3](Evidencias/5.CreaciónAlmacenamientoBlobs3.jpg)![5.CreaciónAlmacenamientoBlobs4](Evidencias/5.CreaciónAlmacenamientoBlobs4.jpg)
 
 ![5.CreaciónAlmacenamientoBlobs5](Evidencias/5.CreaciónAlmacenamientoBlobs5.jpg)
 
@@ -45,13 +45,13 @@
 
 # 12 - Implementar Azure Key Vault![12.ImplementAzureKeyVault](Evidencias/12.ImplementAzureKeyVault.jpg)![12.ImplementAzureKeyVault2](Evidencias/12.ImplementAzureKeyVault2.jpg)![12.ImplementAzureKeyVault3](Evidencias/12.ImplementAzureKeyVault3.jpg)![12.ImplementAzureKeyVault4](Evidencias/12.ImplementAzureKeyVault4.jpg)
 
-13 - Tráfico de red segura![13.TraficoRedSegura](Evidencias/13.TraficoRedSegura.jpg)![13.TraficoRedSegura2](Evidencias/13.TraficoRedSegura2.jpg)![13.TraficoRedSegura3](Evidencias/13.TraficoRedSegura3.jpg)![13.TraficoRedSegura4](Evidencias/13.TraficoRedSegura4.jpg)![13.TraficoRedSegura5](Evidencias/13.TraficoRedSegura5.jpg)![13.TraficoRedSegura6](Evidencias/13.TraficoRedSegura6.jpg)
+# 13 - Tráfico de red segura![13.TraficoRedSegura](Evidencias/13.TraficoRedSegura.jpg)![13.TraficoRedSegura2](Evidencias/13.TraficoRedSegura2.jpg)![13.TraficoRedSegura3](Evidencias/13.TraficoRedSegura3.jpg)![13.TraficoRedSegura4](Evidencias/13.TraficoRedSegura4.jpg)![13.TraficoRedSegura5](Evidencias/13.TraficoRedSegura5.jpg)![13.TraficoRedSegura6](Evidencias/13.TraficoRedSegura6.jpg)
 
 # 14 - Administrar el acceso con RBAC![14.AdministrarAccesoConRBAC](Evidencias/14.AdministrarAccesoConRBAC.jpg)![14.AdministrarAccesoConRBAC2](Evidencias/14.AdministrarAccesoConRBAC2.jpg)![14.AdministrarAccesoConRBAC3](Evidencias/14.AdministrarAccesoConRBAC3.jpg)
 
 # 15 - Administrar bloqueos de recursos![15.AdministrarBloqueosRecursos](Evidencias/15.AdministrarBloqueosRecursos.jpg)![15.AdministrarBloqueosRecursos2](Evidencias/15.AdministrarBloqueosRecursos2.jpg)![15.AdministrarBloqueosRecursos3](Evidencias/15.AdministrarBloqueosRecursos3.jpg)![15.AdministrarBloqueosRecursos4](Evidencias/15.AdministrarBloqueosRecursos4.jpg)![15.AdministrarBloqueosRecursos5](Evidencias/15.AdministrarBloqueosRecursos5.jpg)![15.AdministrarBloqueosRecursos6](Evidencias/15.AdministrarBloqueosRecursos6.jpg)
 
-# 16 - Implementar el etiquetado de recursos![16.ImplementarEtiquetadoRecursos](Evidencias/16.ImplementarEtiquetadoRecursos.jpg)![16.ImplementarEtiquetadoRecursos2](Evidencias\16.ImplementarEtiquetadoRecursos2.jpg)![16.ImplementarEtiquetadoRecursos3](Evidencias\16.ImplementarEtiquetadoRecursos3.jpg)![16.ImplementarEtiquetadoRecursos4](Evidencias/16.ImplementarEtiquetadoRecursos4.jpg)![16.ImplementarEtiquetadoRecursos5](Evidencias/16.ImplementarEtiquetadoRecursos5.jpg)
+# 16 - Implementar el etiquetado de recursos![16.ImplementarEtiquetadoRecursos](Evidencias/16.ImplementarEtiquetadoRecursos.jpg)![16.ImplementarEtiquetadoRecursos2](Evidencias/16.ImplementarEtiquetadoRecursos2.jpg)![16.ImplementarEtiquetadoRecursos3](Evidencias/16.ImplementarEtiquetadoRecursos3.jpg)![16.ImplementarEtiquetadoRecursos4](Evidencias/16.ImplementarEtiquetadoRecursos4.jpg)![16.ImplementarEtiquetadoRecursos5](Evidencias/16.ImplementarEtiquetadoRecursos5.jpg)
 
 # 17 - Crear una directiva de Azure![17.CrearDirectivaAzure](Evidencias/17.CrearDirectivaAzure.jpg)![17.CrearDirectivaAzure2](Evidencias/17.CrearDirectivaAzure2.jpg)![17.CrearDirectivaAzure3](Evidencias/17.CrearDirectivaAzure3.jpg)![17.CrearDirectivaAzure4](Evidencias/17.CrearDirectivaAzure4.jpg)
 

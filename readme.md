@@ -52,3 +52,7 @@
 # 15 - Administrar bloqueos de recursos![15.AdministrarBloqueosRecursos](Evidencias/15.AdministrarBloqueosRecursos.jpg)![15.AdministrarBloqueosRecursos2](Evidencias/15.AdministrarBloqueosRecursos2.jpg)![15.AdministrarBloqueosRecursos3](Evidencias/15.AdministrarBloqueosRecursos3.jpg)![15.AdministrarBloqueosRecursos4](Evidencias/15.AdministrarBloqueosRecursos4.jpg)![15.AdministrarBloqueosRecursos5](Evidencias/15.AdministrarBloqueosRecursos5.jpg)![15.AdministrarBloqueosRecursos6](Evidencias/15.AdministrarBloqueosRecursos6.jpg)
 
 # 16 - Implementar el etiquetado de recursos![16.ImplementarEtiquetadoRecursos](Evidencias/16.ImplementarEtiquetadoRecursos.jpg)![16.ImplementarEtiquetadoRecursos2](Evidencias\16.ImplementarEtiquetadoRecursos2.jpg)![16.ImplementarEtiquetadoRecursos3](Evidencias\16.ImplementarEtiquetadoRecursos3.jpg)![16.ImplementarEtiquetadoRecursos4](Evidencias/16.ImplementarEtiquetadoRecursos4.jpg)![16.ImplementarEtiquetadoRecursos5](Evidencias/16.ImplementarEtiquetadoRecursos5.jpg)
+
+# 17 - Crear una directiva de Azure![17.CrearDirectivaAzure](Evidencias/17.CrearDirectivaAzure.jpg)![17.CrearDirectivaAzure2](Evidencias/17.CrearDirectivaAzure2.jpg)![17.CrearDirectivaAzure3](Evidencias/17.CrearDirectivaAzure3.jpg)![17.CrearDirectivaAzure4](Evidencias/17.CrearDirectivaAzure4.jpg)
+
+# 18 - Explorar el Centro de confianza![18.ExplorarCentroConfianza](Evidencias/18.ExplorarCentroConfianza.jpg)![18.ExplorarCentroConfianza2](Evidencias\18.ExplorarCentroConfianza2.jpg)![18.ExplorarCentroConfianza3](Evidencias/18.ExplorarCentroConfianza3.jpg)

@@ -58,3 +58,5 @@
 # 18 - Explorar el Centro de confianza![18.ExplorarCentroConfianza](Evidencias/18.ExplorarCentroConfianza.jpg)![18.ExplorarCentroConfianza2](Evidencias/18.ExplorarCentroConfianza2.jpg)![18.ExplorarCentroConfianza3](Evidencias/18.ExplorarCentroConfianza3.jpg)
 
 # 19 - Use the Pricing Calculator![19.UsarCalculadoraPreciosAzure](Evidencias/19.UsarCalculadoraPreciosAzure.jpg)![19.UsarCalculadoraPreciosAzure2](Evidencias/19.UsarCalculadoraPreciosAzure2.jpg)![19.UsarCalculadoraPreciosAzure3](Evidencias/19.UsarCalculadoraPreciosAzure3.jpg)![19.UsarCalculadoraPreciosAzure4](Evidencias/19.UsarCalculadoraPreciosAzure4.jpg)![19.UsarCalculadoraPreciosAzure5](Evidencias/19.UsarCalculadoraPreciosAzure5.jpg)![19.UsarCalculadoraPreciosAzure6](Evidencias/19.UsarCalculadoraPreciosAzure6.jpg)![19.UsarCalculadoraPreciosAzure7](Evidencias/19.UsarCalculadoraPreciosAzure7.jpg)
+
+# 20 - Usar la calculadora de TCO de Azure![20.UsarCalculadoraTCOAzure](Evidencias\20.UsarCalculadoraTCOAzure.jpg)![20.UsarCalculadoraTCOAzure2](Evidencias/20.UsarCalculadoraTCOAzure2.jpg)![20.UsarCalculadoraTCOAzure3](Evidencias/20.UsarCalculadoraTCOAzure3.jpg)

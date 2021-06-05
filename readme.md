@@ -55,4 +55,4 @@
 
 # 17 - Crear una directiva de Azure![17.CrearDirectivaAzure](Evidencias/17.CrearDirectivaAzure.jpg)![17.CrearDirectivaAzure2](Evidencias/17.CrearDirectivaAzure2.jpg)![17.CrearDirectivaAzure3](Evidencias/17.CrearDirectivaAzure3.jpg)![17.CrearDirectivaAzure4](Evidencias/17.CrearDirectivaAzure4.jpg)
 
-# 18 - Explorar el Centro de confianza![18.ExplorarCentroConfianza](Evidencias/18.ExplorarCentroConfianza.jpg)![18.ExplorarCentroConfianza2](Evidencias\18.ExplorarCentroConfianza2.jpg)![18.ExplorarCentroConfianza3](Evidencias/18.ExplorarCentroConfianza3.jpg)
+# 18 - Explorar el Centro de confianza![18.ExplorarCentroConfianza](Evidencias/18.ExplorarCentroConfianza.jpg)![18.ExplorarCentroConfianza2](Evidencias/18.ExplorarCentroConfianza2.jpg)![18.ExplorarCentroConfianza3](Evidencias/18.ExplorarCentroConfianza3.jpg)

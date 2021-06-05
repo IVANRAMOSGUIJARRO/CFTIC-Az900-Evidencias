@@ -59,4 +59,8 @@
 
 # 19 - Use the Pricing Calculator![19.UsarCalculadoraPreciosAzure](Evidencias/19.UsarCalculadoraPreciosAzure.jpg)![19.UsarCalculadoraPreciosAzure2](Evidencias/19.UsarCalculadoraPreciosAzure2.jpg)![19.UsarCalculadoraPreciosAzure3](Evidencias/19.UsarCalculadoraPreciosAzure3.jpg)![19.UsarCalculadoraPreciosAzure4](Evidencias/19.UsarCalculadoraPreciosAzure4.jpg)![19.UsarCalculadoraPreciosAzure5](Evidencias/19.UsarCalculadoraPreciosAzure5.jpg)![19.UsarCalculadoraPreciosAzure6](Evidencias/19.UsarCalculadoraPreciosAzure6.jpg)![19.UsarCalculadoraPreciosAzure7](Evidencias/19.UsarCalculadoraPreciosAzure7.jpg)
 
-# 20 - Usar la calculadora de TCO de Azure![20.UsarCalculadoraTCOAzure](Evidencias\20.UsarCalculadoraTCOAzure.jpg)![20.UsarCalculadoraTCOAzure2](Evidencias/20.UsarCalculadoraTCOAzure2.jpg)![20.UsarCalculadoraTCOAzure3](Evidencias/20.UsarCalculadoraTCOAzure3.jpg)
+# 20 - Usar la calculadora de TCO de Azure![20.UsarCalculadoraTCOAzure](Evidencias/20.UsarCalculadoraTCOAzure.jpg)![20.UsarCalculadoraTCOAzure2](Evidencias/20.UsarCalculadoraTCOAzure2.jpg)![20.UsarCalculadoraTCOAzure3](Evidencias/20.UsarCalculadoraTCOAzure3.jpg)
+
+# 21 - Calcular el Acuerdo de nivel de servicio compuesto![21.CalcularAcuerdoNivelServicioCompuesto](Evidencias/21.CalcularAcuerdoNivelServicioCompuesto.jpg)
+
+#  22 - Abrir una solicitud de soporte técnico![22.AbrirSolicitudSoporteTécnico](Evidencias/22.AbrirSolicitudSoporteTécnico.jpg)![22.AbrirSolicitudSoporteTécnico2](Evidencias/22.AbrirSolicitudSoporteTécnico2.jpg)![22.AbrirSolicitudSoporteTécnico3](Evidencias/22.AbrirSolicitudSoporteTécnico3.jpg)![22.AbrirSolicitudSoporteTécnico4](Evidencias/22.AbrirSolicitudSoporteTécnico4.jpg)
